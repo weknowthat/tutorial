@@ -1,1 +1,2 @@
 den con khi cung hieu dc git
+add: dang ky thay doi trong phan index
