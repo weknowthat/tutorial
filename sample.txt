@@ -1,3 +1,5 @@
 den con khi cung hieu dc git
 add: dang ky thay doi trong phan index
 commit: luu lai trang thai cua commit
+pull: lay noi dung cua remote repository
+
